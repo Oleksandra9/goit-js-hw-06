@@ -52,3 +52,13 @@ img {
 .gallery__item:hover {
   transform: scale(1.1);
 }
+
+/* task-4 */
+.color-step-minus {
+  background-color: rgb(217, 255, 0);
+  
+}
+.color-step-plus {
+  background-color: rgb(30, 255, 0);
+  
+}
